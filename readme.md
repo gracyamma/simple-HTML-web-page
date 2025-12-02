@@ -13,6 +13,10 @@ This is a simple HTML webpage designed to showcase a week's learning plan for be
 * **Important Traits for a Programmer**: A list outlining the key qualities that make a good programmer.
 * **Responsive Image**: An image from Unsplash to visually enhance the page.
 
+
+
+[live @](https://gracyamma.github.io/simple-HTML-web-page/)
+
 ![image](./ss2.png)
 
 
